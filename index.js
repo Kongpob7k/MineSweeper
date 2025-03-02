@@ -58,7 +58,7 @@ for(let i=0;i<box.length;i++){
         alert("YOU RIGHT CLICK");
     })
 }
-console.log()
+console.log("HELLO")
 
 
 
